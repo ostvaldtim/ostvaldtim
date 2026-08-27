@@ -14,9 +14,6 @@ I build working AI products and prototypes from ambiguous technical and business
   Digital Humanities · Python · OpenStreetMap · Wikidata  
   Research pipeline and interactive visualization of 2,783 Novosibirsk streets.
 
-- **Conversational AI Character**  
-  Paid commercial prototype · prompt architecture · LLM orchestration · TTS/video logic.
-
 ## Stack
 
 `Python` · `JavaScript / TypeScript` · `React` · `Node.js` · `PostgreSQL` · `Supabase` · `REST APIs` · `LLMs` · `Git`
