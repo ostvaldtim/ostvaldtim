@@ -1,23 +1,31 @@
 # Artem Ostvald
 
-### AI-assisted Developer · Prompt Engineer
+### AI Developer · Product Builder
 
-I build working AI products and prototypes from ambiguous technical and business problems — using AI as an accelerator, not a black box.
+I build AI products and prototypes around LLM integrations, data processing, web applications and external APIs. I focus on turning an idea or business task into a working system that can be tested and shown.
 
 ## Selected projects
 
-- **[Creative Jam](https://github.com/ostvaldartem03-spec/creative-jam)**  
-  Co-founder · AI-assisted Full-stack Developer  
-  AI product with report-generation pipeline, payments and database integration.
+- **[Creative Jam](https://github.com/ostvaldtim/creative-jam)**  
+  Co-founder · Full-stack development  
+  B2B product for generating structured AI reports, with database and payment integrations.
 
-- **[City Memory](https://github.com/ostvaldartem03-spec/city-memory-project-novosibirsk)**  
-  Digital Humanities · Python · OpenStreetMap · Wikidata  
-  Research pipeline and interactive visualization of 2,783 Novosibirsk streets.
+- **[ESUP Moscow Prototype](https://github.com/ostvaldtim/esup-moscow-prototype)**  
+  React · TypeScript · PostgreSQL · YandexGPT  
+  Prototype for turning large accounting-policy documents into structured, organization-specific workflows with completeness checks and 1C-oriented export logic.
+
+- **[AI Ded Moroz](https://github.com/ostvaldtim/conversational-ai-character)**  
+  Speech-to-Text · LLM · TTS · Video routing  
+  Conversational character prototype with speech recognition, response planning, synthesized voice and semantic media selection.
+
+- **[City Memory: Novosibirsk](https://github.com/ostvaldtim/city-memory-project-novosibirsk)**  
+  Python · OpenStreetMap · Wikidata · Digital Humanities  
+  Data pipeline and interactive dashboard covering 2,783 Novosibirsk streets and 433 commemorated people.
 
 ## Stack
 
-`Python` · `JavaScript / TypeScript` · `React` · `Node.js` · `PostgreSQL` · `Supabase` · `REST APIs` · `LLMs` · `Git`
+`Python` · `JavaScript / TypeScript` · `React` · `Node.js` · `PostgreSQL` · `Supabase` · `REST APIs` · `LLM APIs` · `Git`
 
----
+## Background
 
-History student at **HSE University** with a focus on AI, product development and digital research.
+History student at **HSE University**, interested in AI systems, product development and digital research.
