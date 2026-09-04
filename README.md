@@ -4,6 +4,12 @@
 
 I build AI products and prototypes around LLM integrations, data processing, web applications and external APIs. I focus on turning an idea or business task into a working system that can be tested and shown.
 
+## Current focus
+
+- Productionizing **Creative Jam**: backend boundaries, authentication, PostgreSQL/Supabase and deployment reliability.
+- Building practical **LLM integrations** with clear API contracts instead of provider logic scattered through the frontend.
+- Making **data and Digital Humanities workflows reproducible** with Python pipelines, validation and interactive dashboards.
+
 ## Selected projects
 
 - **[Creative Jam](https://github.com/ostvaldtim/creative-jam)**  
