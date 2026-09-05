@@ -1,37 +1,27 @@
-# Artem Ostvald
+# Tim Ostvald
 
-### AI Developer · Product Builder
+I build software around LLMs, documents and messy real-world data.
 
-I build AI products and prototypes around LLM integrations, data processing, web applications and external APIs. I focus on turning an idea or business task into a working system that can be tested and shown.
+I'm a history student at HSE University and co-founder of Creative Jam. Most of my work is practical: prototypes, backend logic, data pipelines, integrations, and making AI-generated code survive contact with a real product.
 
-## Current focus
+## Selected work
 
-- Productionizing **Creative Jam**: backend boundaries, authentication, PostgreSQL/Supabase and deployment reliability.
-- Building practical **LLM integrations** with clear API contracts instead of provider logic scattered through the frontend.
-- Making **data and Digital Humanities workflows reproducible** with Python pipelines, validation and interactive dashboards.
+### [Creative Jam](https://github.com/ostvaldtim/creative-jam)
+B2B product that turns a brief into a structured research report. I work across the frontend and backend, PostgreSQL/Supabase, payments, and the report-generation pipeline.
 
-## Selected projects
+### [ESUP Moscow Prototype](https://github.com/ostvaldtim/esup-moscow-prototype)
+Team prototype for a Moscow Department of Finance case. Large Word documents are turned into structured blocks, organization-specific accounting policies, completeness checks and 1C-oriented export logic.
 
-- **[Creative Jam](https://github.com/ostvaldtim/creative-jam)**  
-  Co-founder · Full-stack development  
-  B2B product for generating structured AI reports, with database and payment integrations.
+### [AI Ded Moroz](https://github.com/ostvaldtim/conversational-ai-character)
+Conversational character prototype built around a simple runtime chain: microphone → speech-to-text → LLM → structured response → TTS + video routing.
 
-- **[ESUP Moscow Prototype](https://github.com/ostvaldtim/esup-moscow-prototype)**  
-  React · TypeScript · PostgreSQL · YandexGPT  
-  Prototype for turning large accounting-policy documents into structured, organization-specific workflows with completeness checks and 1C-oriented export logic.
-
-- **[AI Ded Moroz](https://github.com/ostvaldtim/conversational-ai-character)**  
-  Speech-to-Text · LLM · TTS · Video routing  
-  Conversational character prototype with speech recognition, response planning, synthesized voice and semantic media selection.
-
-- **[City Memory: Novosibirsk](https://github.com/ostvaldtim/city-memory-project-novosibirsk)**  
-  Python · OpenStreetMap · Wikidata · Digital Humanities  
-  Data pipeline and interactive dashboard covering 2,783 Novosibirsk streets and 433 commemorated people.
+### [City Memory: Novosibirsk](https://github.com/ostvaldtim/city-memory-project-novosibirsk)
+Digital Humanities project on commemorative street names. OpenStreetMap + Wikidata/Wikipedia + manual verification + an interactive dashboard covering 2,783 streets and 433 commemorated people.
 
 ## Stack
 
 `Python` · `JavaScript / TypeScript` · `React` · `Node.js` · `PostgreSQL` · `Supabase` · `REST APIs` · `LLM APIs` · `Git`
 
-## Background
+## About
 
-History student at **HSE University**, interested in AI systems, product development and digital research.
+I study history at HSE University. I like projects where software has to make sense of language, documents or real-world data.
