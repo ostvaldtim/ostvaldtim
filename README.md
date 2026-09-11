@@ -17,6 +17,8 @@ B2B AI research product that turns a client brief into a structured research rep
 ### [City Memory: Novosibirsk](https://github.com/ostvaldtim/city-memory-project-novosibirsk)
 Digital Humanities research system built around OpenStreetMap, Wikidata/Wikipedia enrichment, manual verification and an interactive dashboard. The project covers 2,783 streets and 433 commemorated people and combines data collection, research methodology, analysis and product presentation.
 
+**Live dashboard:** https://ostvald-city-memory-project-novosibirsk.static.hf.space/index.html
+
 ### [ESUP Moscow Prototype](https://github.com/ostvaldtim/esup-moscow-prototype)
 Document automation prototype for a Moscow Department of Finance case. The system transforms large Word documents into structured blocks, organization-specific accounting-policy logic, completeness checks and 1C-oriented export structures.
 
