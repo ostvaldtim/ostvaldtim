@@ -7,6 +7,12 @@ I build research-driven AI products that turn messy briefs, documents and real-w
 
 My work sits across product and engineering: full-stack implementation, LLM orchestration, context pipelines, structured outputs, verification, traceability, APIs and data infrastructure.
 
+## Current focus
+
+- Productionizing Creative Jam's multi-model research pipeline
+- Reliable context preparation, structured outputs and verification
+- AI-agent and research automation workflows
+
 ## Selected work
 
 ### [Creative Jam](https://github.com/ostvaldtim/creative-jam)
