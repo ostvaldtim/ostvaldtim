@@ -1,27 +1,43 @@
 # Tim Ostvald
 
-I build software around LLMs, documents and messy real-world data.
+**AI Product Engineer**  
+LLM Systems · AI Agents · Research Automation · AI-native Product Development
 
-I'm a history student at HSE University and co-founder of Creative Jam. Most of my work is practical: prototypes, backend logic, data pipelines, integrations, and making AI-generated code survive contact with a real product.
+I build research-driven AI products that turn messy briefs, documents and real-world data into structured, usable systems.
+
+My work sits across product and engineering: full-stack implementation, LLM orchestration, context pipelines, structured outputs, verification, traceability, APIs and data infrastructure.
 
 ## Selected work
 
 ### [Creative Jam](https://github.com/ostvaldtim/creative-jam)
-B2B product that turns a brief into a structured research report. I work across the frontend and backend, PostgreSQL/Supabase, payments, and the report-generation pipeline.
+B2B AI research product that turns a client brief into a structured research report. I work across the product as co-founder and AI Product Engineer: application architecture, backend systems, PostgreSQL/Supabase, payments, multi-model LLM pipelines, context preparation, report synthesis, verification and production refactoring.
 
-### [ESUP Moscow Prototype](https://github.com/ostvaldtim/esup-moscow-prototype)
-Team prototype for a Moscow Department of Finance case. Large Word documents are turned into structured blocks, organization-specific accounting policies, completeness checks and 1C-oriented export logic.
-
-### [AI Ded Moroz](https://github.com/ostvaldtim/conversational-ai-character)
-Conversational character prototype built around a simple runtime chain: microphone → speech-to-text → LLM → structured response → TTS + video routing.
+**Live demo:** https://ostvald-creative-jam.hf.space
 
 ### [City Memory: Novosibirsk](https://github.com/ostvaldtim/city-memory-project-novosibirsk)
-Digital Humanities project on commemorative street names. OpenStreetMap + Wikidata/Wikipedia + manual verification + an interactive dashboard covering 2,783 streets and 433 commemorated people.
+Digital Humanities research system built around OpenStreetMap, Wikidata/Wikipedia enrichment, manual verification and an interactive dashboard. The project covers 2,783 streets and 433 commemorated people and combines data collection, research methodology, analysis and product presentation.
+
+### [ESUP Moscow Prototype](https://github.com/ostvaldtim/esup-moscow-prototype)
+Document automation prototype for a Moscow Department of Finance case. The system transforms large Word documents into structured blocks, organization-specific accounting-policy logic, completeness checks and 1C-oriented export structures.
+
+### [Conversational AI Character](https://github.com/ostvaldtim/conversational-ai-character)
+Conversational AI prototype with a runtime chain built around speech-to-text, LLM reasoning, structured responses, text-to-speech and video routing.
+
+## What I work on
+
+- Multi-model LLM systems
+- AI agents and research automation
+- Context pipelines and structured outputs
+- Verification, traceability and evaluation
+- Full-stack AI products
+- Document and knowledge workflows
 
 ## Stack
 
-`Python` · `JavaScript / TypeScript` · `React` · `Node.js` · `PostgreSQL` · `Supabase` · `REST APIs` · `LLM APIs` · `Git`
+`TypeScript` · `Node.js` · `React` · `Python` · `PostgreSQL` · `Supabase` · `REST APIs` · `LLM APIs` · `Docker` · `Git`
 
-## About
+## Background
 
-I study history at HSE University. I like projects where software has to make sense of language, documents or real-world data.
+I study history at HSE University. That background shapes how I work with sources, evidence, ambiguity and research methodology, especially in AI systems that need to reason over imperfect real-world information.
+
+[LinkedIn](https://www.linkedin.com/in/tim-ostvald)
